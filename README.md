@@ -59,6 +59,7 @@ GPA 3.8
 
 <div>
 <div align="center">
+
 ## Projects
 </div>
 
