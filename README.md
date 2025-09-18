@@ -2,6 +2,7 @@
 
 <h1>Ruby Englehart</h1>
 <h3>Engineer | Scholar | Teacher</h3>
+<h4>605.569.6198     engelhartrueben@gmail.com     Albany, NY</h4>
 </div>
 
 <div>
@@ -27,12 +28,12 @@
 
 <h4 id="-b-united-today-stronger-tomorrow-b-"><b>United Today, Stronger Tomorrow</b></h4>
 <h5 id="organizer-i-10-2021-12-2022-i-">Organizer <i>10/2021 - 12/2022</i></h5>
-<p><ul></p>
+<ul>
 <p><li>United Today, Stronger Tomorrow engages in advocacy efforts aimed at fostering equitable solutions and enhancing civic participation among local citizens.</li></p>
 <p><li>Analyzed data trends to refine campaign strategies, resulting in a 50% increase in engagement and retention rates.</li></p>
 <p><li>Designed interactive dashboards to visualize data trends, allowing for real-time decision making and improved campaign targeting, lending to the success of several on the ground campaigns.</li>
 </ul>
-</div></p>
+</div>
 <div>
 <div align="center">
 
@@ -53,7 +54,7 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <h4 id="b-s-in-political-science">B.S. in Political Science</h4>
 <h5 id="black-hilss-state-university-spearfish-sd-i-9-2019-5-2022-i-">Black Hilss State University, Spearfish, SD <i>9/2019 - 5/2022</i></h5>
 <p>GPA 3.8
-</div></p>
+</div>
 <div>
 <div align="center">
 
@@ -69,7 +70,7 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <h4 id="-a-href-https-github-com-coal-rock-pantheon-pantheon-a-"><a href="https://github.com/coal-rock/Pantheon">Pantheon</a></h4>
 <h5 id="a-command-and-control-adversary-emulation-framework">A Command and Control Adversary Emulation Framework</h5>
 <p>Written in Rust. Working with a small team,  this tool helps organize security testing.
-</div></p>
+</div>
 <div>
 <div align="center">
 
@@ -78,11 +79,11 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 
 <h4 id="institute-of-electrical-and-electronics-engineers-ieee-">Institute of Electrical and Electronics Engineers (IEEE)</h4>
 <h5 id="junior-secretary-i-8-2024-5-2025-i-">Junior Secretary <i>8/2024 - 5/2025</i></h5>
-<p><ul></p>
+<ul>
 <p><li>Led a Web Development Worksohp for 30 studnets, teaching HTML, CSS, and JavaScript, and demonstrating their fundamental roles in creating dynamic web experiences.</li></p>
 <p><li>Delievered a lecture on web security threats such as Cross-site Scripting and SQL injections, focusing on mitigation techniques and best practices. </li>
 </ul>
-</div></p>
+</div>
 <div>
 <div align="center">
 
