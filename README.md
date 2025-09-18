@@ -101,6 +101,6 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 
 <h4 id="ieee-u-albany-hackathon-2nd-place">IEEE U Albany Hackathon | 2nd Place</h4>
 <h5 id="-i-2-2025-i-"><i>2/2025</i></h5>
-<p>In a 24 hour hackathon, my team and I built a web application called &quot;LaTeX TuTor&quot; that helps users learn LaTeX, a typesetting system.
+<p>In a 24 hour hackathon, my team and I built a web application called &quot;LaTeX TuTor&quot; that helps users learn LaTeX, a typesetting system.</p>
 </div>
 
