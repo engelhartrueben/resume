@@ -1,13 +1,13 @@
 <div align="center">
 
-# Ruby Englehart
-### Engineer | Scholar | Teacher
+<h1>Ruby Englehart</h1>
+<h3>Engineer | Scholar | Teacher</h3>
 </div>
 
 <div>
 <div align="center">
 
-## Work Experience
+<h2>Work Experience</h2>
 </div>
 
 <h4 id="-b-university-at-albany-b-"><b>University at Albany</b></h4>
@@ -36,7 +36,7 @@
 <div>
 <div align="center">
 
-## Technologies
+<h2>Technologies</h2>
 </div>
 Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker, Linux
 </div>
@@ -44,7 +44,7 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <div>
 <div align="center">
 
-## Education
+<h2>Education</h2>
 </div>
 
 <h4 id="b-s-in-computer-science-attending">B.S. in Computer Science, Attending</h4>
@@ -57,23 +57,23 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <div>
 <div align="center">
 
-## Projects
+<h2>Projects</h2>
 </div>
 
-<h4 id="-a-href-https-github-com-cerebrallabs-cerebral-cerebral-a-"><a href=https://github.com/CerebralLabs/cerebral>Cerebral</a></h4>
+<h4 id="-a-href-https-github-com-cerebrallabs-cerebral-cerebral-a-"><a href="https://github.com/CerebralLabs/cerebral">Cerebral</a></h4>
 <h5 id="roblox-player-state-management">Roblox Player State Management</h5>
 <p>Simplifies the handling of player data, from the database, to in-game, and back, with the goal of making the development of Roblox games more accessible.</p>
-<h4 id="-a-href-https-github-com-cerebrallabs-mangle-mangle-a-"><a href=https://github.com/CerebralLabs/mangle>Mangle</a></h4>
+<h4 id="-a-href-https-github-com-cerebrallabs-mangle-mangle-a-"><a href="https://github.com/CerebralLabs/mangle">Mangle</a></h4>
 <h5 id="a-luau-name-mangler">A Luau Name Mangler</h5>
 <p>Inspired by Python&#39;s name mangler, making variables private by naming convention. Designed to manage the complexity of large projects in Luau.</p>
-<h4 id="-a-href-https-github-com-coal-rock-pantheon-pantheon-a-"><a href=https://github.com/coal-rock/Pantheon>Pantheon</a></h4>
+<h4 id="-a-href-https-github-com-coal-rock-pantheon-pantheon-a-"><a href="https://github.com/coal-rock/Pantheon">Pantheon</a></h4>
 <h5 id="a-command-and-control-adversary-emulation-framework">A Command and Control Adversary Emulation Framework</h5>
 <p>Written in Rust. Working with a small team,  this tool helps organize security testing.
 </div></p>
 <div>
 <div align="center">
 
-## Organizations
+<h2>Organizations</h2>
 </div>
 
 <h4 id="institute-of-electrical-and-electronics-engineers-ieee-">Institute of Electrical and Electronics Engineers (IEEE)</h4>
@@ -86,7 +86,7 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <div>
 <div align="center">
 
-## Awards
+<h2>Awards</h2>
 </div>
 
 <h4 id="ieee-u-albany-hackathon-2nd-place">IEEE U Albany Hackathon | 2nd Place</h4>
