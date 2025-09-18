@@ -2,7 +2,10 @@
 
 <h1>Ruby Englehart</h1>
 <h3>Engineer | Scholar | Teacher</h3>
-<h4>605.569.6198     engelhartrueben@gmail.com     Albany, NY</h4>
+<h4>605.569.6198</h4>
+<h4>engelhartrueben@gmail.com</h4>
+<h4>Albany, NY</h4>
+
 </div>
 
 <div>
@@ -31,9 +34,10 @@
 <ul>
 <p><li>United Today, Stronger Tomorrow engages in advocacy efforts aimed at fostering equitable solutions and enhancing civic participation among local citizens.</li></p>
 <p><li>Analyzed data trends to refine campaign strategies, resulting in a 50% increase in engagement and retention rates.</li></p>
-<p><li>Designed interactive dashboards to visualize data trends, allowing for real-time decision making and improved campaign targeting, lending to the success of several on the ground campaigns.</li>
+<p><li>Designed interactive dashboards to visualize data trends, allowing for real-time decision making and improved campaign targeting, lending to the success of several on the ground campaigns.</li></p>
 </ul>
 </div>
+
 <div>
 <div align="center">
 
@@ -53,7 +57,7 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <p>GPA 3.9</p>
 <h4 id="b-s-in-political-science">B.S. in Political Science</h4>
 <h5 id="black-hilss-state-university-spearfish-sd-i-9-2019-5-2022-i-">Black Hilss State University, Spearfish, SD <i>9/2019 - 5/2022</i></h5>
-<p>GPA 3.8
+<p>GPA 3.8</p>
 </div>
 <div>
 <div align="center">
@@ -81,9 +85,10 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <h5 id="junior-secretary-i-8-2024-5-2025-i-">Junior Secretary <i>8/2024 - 5/2025</i></h5>
 <ul>
 <p><li>Led a Web Development Worksohp for 30 studnets, teaching HTML, CSS, and JavaScript, and demonstrating their fundamental roles in creating dynamic web experiences.</li></p>
-<p><li>Delievered a lecture on web security threats such as Cross-site Scripting and SQL injections, focusing on mitigation techniques and best practices. </li>
+<p><li>Delievered a lecture on web security threats such as Cross-site Scripting and SQL injections, focusing on mitigation techniques and best practices. </li></p>
 </ul>
 </div>
+
 <div>
 <div align="center">
 
@@ -93,5 +98,5 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <h4 id="ieee-u-albany-hackathon-2nd-place">IEEE U Albany Hackathon | 2nd Place</h4>
 <h5 id="-i-2-2025-i-"><i>2/2025</i></h5>
 <p>In a 24 hour hackathon, my team and I built a web application called &quot;LaTeX TuTor&quot; that helps users learn LaTeX, a typesetting system.
-</div></p>
+</div>
 
