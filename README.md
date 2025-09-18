@@ -59,6 +59,7 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <h5 id="black-hilss-state-university-spearfish-sd-i-9-2019-5-2022-i-">Black Hilss State University, Spearfish, SD <i>9/2019 - 5/2022</i></h5>
 <p>GPA 3.8</p>
 </div>
+
 <div>
 <div align="center">
 
@@ -68,13 +69,16 @@ Java, JavaScript, TypeScript, Python, Rust, SQL, Luau, Node, pm2, React, Docker,
 <h4 id="-a-href-https-github-com-cerebrallabs-cerebral-cerebral-a-"><a href="https://github.com/CerebralLabs/cerebral">Cerebral</a></h4>
 <h5 id="roblox-player-state-management">Roblox Player State Management</h5>
 <p>Simplifies the handling of player data, from the database, to in-game, and back, with the goal of making the development of Roblox games more accessible.</p>
+
 <h4 id="-a-href-https-github-com-cerebrallabs-mangle-mangle-a-"><a href="https://github.com/CerebralLabs/mangle">Mangle</a></h4>
 <h5 id="a-luau-name-mangler">A Luau Name Mangler</h5>
 <p>Inspired by Python&#39;s name mangler, making variables private by naming convention. Designed to manage the complexity of large projects in Luau.</p>
+
 <h4 id="-a-href-https-github-com-coal-rock-pantheon-pantheon-a-"><a href="https://github.com/coal-rock/Pantheon">Pantheon</a></h4>
 <h5 id="a-command-and-control-adversary-emulation-framework">A Command and Control Adversary Emulation Framework</h5>
-<p>Written in Rust. Working with a small team,  this tool helps organize security testing.
+<p>Written in Rust. Working with a small team,  this tool helps organize security testing.</p>
 </div>
+
 <div>
 <div align="center">
 
